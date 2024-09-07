@@ -1,1 +1,2 @@
 I've enjoyed my journey into coding with Coding Temple so far. My favorite part is probably learning about using the command prompt and all the different things you can do with it. VS Code is pretty neat, too.
+I'm very excited to finally get started on learning python!
